@@ -1,6 +1,6 @@
 # Soft Launch — Watchlist
 
-Cinematic watchlist with vibe-tagged shelves. Frontend-only React app — best first project in the portfolio set.
+Cinematic watchlist with vibe-tagged shelves. Frontend-only React portfolio starter — smallest surface area in the set.
 
 ## Run
 
@@ -22,7 +22,7 @@ Opens on Vite (default `http://localhost:5174`).
 
 **Start here → [`YOUR_FEATURE.md`](./YOUR_FEATURE.md)**
 
-Full beginner checklist: goal, files, numbered steps, hints, acceptance criteria, demo script, stretch.
+Ownership checklist: goal, files, numbered steps, implementation notes, acceptance criteria, demo script, stretch.
 
 In short: move titles between shelves (`saveShelves`) and polish the reorderable up-next queue (`saveUpNext`). Search for `TODO(your-name)` (each comment references a step number).
 

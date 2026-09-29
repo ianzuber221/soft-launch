@@ -1,6 +1,6 @@
 # YOUR FEATURE — Soft Launch (Watchlist)
 
-Welcome. Shelves and the up-next queue already render with seed titles. Your job is to make shelf moves and queue edits actually persist — and feel good to use.
+**Feature to implement.** Shelves and the up-next queue already render with seed titles. Own the persistence and UX so shelf moves and queue edits actually stick — and feel good to use.
 
 ---
 
@@ -37,7 +37,7 @@ Search for `TODO(your-name)`.
 
 ---
 
-## Hints
+## Implementation notes
 
 - `loadShelves()` already falls back to `defaultShelfMap` — you don’t need new seed logic.
 - `ShelfId` is `"want" | "watching" | "rewatch" | "finished"`. Labels are in `shelfLabels`.
@@ -66,7 +66,7 @@ You're done when…
 2. “I can move a title from Want to Watching; that write hits localStorage.”
 3. “On Up next, I reorder what I’m actually putting on — order survives a refresh.”
 4. “I can pull something from shelves into the queue, or trim what I’m done with.”
-5. “Small surface area, clear persistence story — easy to show in an interview.”
+5. “Small surface area, clear persistence story — solid interview demo.”
 
 ---
 
